@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Leather Gloves
 - [ ] Crystal Vase
-- [ ] Heavy Book
+- [X] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*
@@ -25,4 +25,15 @@ PARK
 - dentro de park/pond no hay nada
 - dentro de park/pond/dock solo hay The Innkeeper 
 
+RESIDENTIAL AREA
+- dentro de residential solo esta The Artist
+- dentro de Residential/cottage no hay nada
+- dentro de Residential/cottage/cellar no hay nada dentro 
+- dentro de Residential/cottage/living room no hay nada
+
+- dentro de Residential/mansion solo hay un objeto de Heavy Book.
+- dentro de Residential/mansion/garden no hay nada
+- dentro de Residential/masion/garden/greenhouse solo esta el personaje The Police Officer
+- dentro de Residential/mansion/library solo hay Wooden Box
+- dentro de Residential/mansion/library/study no hay nada
 
