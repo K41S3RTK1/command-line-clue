@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Postman
-- [ ] The Carpenter
+- [X] The Carpenter
 - [ ] The Gardener
 
 ## Weapons
@@ -37,3 +37,18 @@ RESIDENTIAL AREA
 - dentro de Residential/mansion/library solo hay Wooden Box
 - dentro de Residential/mansion/library/study no hay nada
 
+SCHOOL
+- dentro de school solo hay Bronze Trophy y The Mayor
+
+/cafeteria
+- dentro de school/cafeteria no hay nada
+- dentro de school/cafeteria/kitchen solo se encuentra The Carpenter
+
+/classrooms
+- dentro de school/classrooms no hay nada
+- dentro de school/classrooms/art room no hay nada
+- dentro de school/classrooms/science lab hay Garden Shears y Silver Watch
+
+/gymnasium
+- dentro de school/classrooms/gymnasium no hay nada
+- dentro
