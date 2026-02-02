@@ -1,13 +1,13 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Postman
+- [X] The Postman
 - [X] The Carpenter
 - [ ] The Gardener
 
 ## Weapons
 - [ ] Leather Gloves
-- [ ] Crystal Vase
+- [X] Crystal Vase
 - [X] Heavy Book
 
 ## Notes
@@ -70,4 +70,18 @@ SHOPS
 - dentro de /aisles se encuentra The Librarian
 - dentro de /stockroom solo hay Letter Opener
 
-  
+TOWN HALL
+- solo hay Brass Candlestick
+
+/offices
+- no hay nada  
+	/meeting rooms
+	- dentro de meeting solo se encuentra The Postman que es un sospechoso.
+		/council chamber
+		- solo hay crystal vase que es un objeto de la lista
+		- tambien me indica de ir a storage en shops como pista
+	/records
+	- no hay nada
+		/archives
+		- no hay nada
+
