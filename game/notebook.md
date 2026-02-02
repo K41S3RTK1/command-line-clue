@@ -52,3 +52,22 @@ SCHOOL
 /gymnasium
 - dentro de school/classrooms/gymnasium no hay nada
 - dentro
+
+SHOPS
+-dentro de shops no hay nada
+
+/bakery
+- dentro de bakery solo hay Fountain Pen
+- dentro de bakery/kitchen no hay nada
+"La escena del crimen es en storage dentro de bakery en shops"
+- dentro de storage no hay nada solo la escena
+
+/cafe
+- no hay nada
+
+/market
+- no hay nada
+- dentro de /aisles se encuentra The Librarian
+- dentro de /stockroom solo hay Letter Opener
+
+  
